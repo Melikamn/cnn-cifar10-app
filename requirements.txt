@@ -1,0 +1,19 @@
+
+# Core ML/NN frameworks
+torch
+torchvision
+
+# For model training / data handling
+numpy
+pandas
+scikit-learn
+
+# Web UI (choose what you use; Gradio is common on port 7860)
+gradio
+streamlit
+
+
+# Utilities
+matplotlib
+Pillow
+seaborn
